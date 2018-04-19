@@ -1,0 +1,246 @@
+html{
+	font-size: 100%;
+}
+
+main{
+	width:100%;
+	margin: auto 0% auto 10%;
+}
+
+.titulo-principal{
+	text-align: center;
+	text-decoration: underline;
+	margin: 3% 35% 3% 0%;
+	font-family: "Montserrat", sans-serif;
+	font-size: 200%;
+	float: right;
+}
+
+.subtitulo-texto{
+	width:50%;
+	background-color:#9FDBDC;
+	border-radius: .75em;
+	color:#000000;
+	padding:1%;
+	margin: 0% 17% 2% 0%;
+	font-family: "Montserrat", sans-serif;
+	text-align: center;
+	box-sizing: border-box;
+	font-size: 140%;
+	float:right;
+	clear:both;
+}
+
+a{
+	color:blue;
+	text-decoration: underline;
+}
+
+.titulo-primeira-noticia{
+	width: 48%;
+	height: 7%;
+	margin: 0% 17% 0% 0%;
+	text-align: center;
+	vertical-align:middle;
+	font-size: 130%;
+	font-family: "Montserrat", sans-serif;
+	color: #FFFFFF;
+	padding:2% 1% 2% 1%;
+	background-color: #808DA9;
+	float:right;
+	line-height: 150%;
+}
+
+.figura-primeira-noticia{
+	width: 50%;
+	margin: 0% 17% 0% 0%;
+	float:right;
+}
+
+.texto-primeira-noticia{
+	width:50%;
+	margin: 1% 17% 2% 0%;
+	line-height: 180%;
+	text-align: justify;
+	text-justify: inter-word;
+	font-family: sans-serif;
+	font-family: sans-serif;
+	float:right;
+}
+
+.titulo-segunda-noticia{
+	width: 48%;
+	height: 7%;
+	margin: 0% 17% 0% 0%;
+	text-align: center;
+	vertical-align:middle;
+	font-size: 130%;
+	font-family: "Montserrat", sans-serif;
+	color: #FFFFFF;
+	padding:2% 1% 2% 1%;
+	background-color: #365279;
+	float:right;
+	line-height: 150%;
+}
+
+.figura-segunda-noticia{
+	width: 50%;
+	margin: 0% 17% 0% 0%;
+	float:right;
+}
+
+.texto-segunda-noticia{
+	width:50%;
+	margin: 1% 17% 2% 0%;
+	line-height: 180%;
+	text-align: justify;
+	text-justify: inter-word;
+	font-family: sans-serif;
+	font-family: sans-serif;
+	float:right;
+}
+
+.titulo-terceira-noticia{
+	width: 48%;
+	height: 7%;
+	margin: 0% 17% 0% 0%;
+	text-align: center;
+	vertical-align:middle;
+	font-size: 130%;
+	font-family: "Montserrat", sans-serif;
+	color: #FFFFFF;
+	padding:2% 1% 2% 1%;
+	background-color: #005CB9;
+	float:right;
+	line-height: 150%;
+}
+
+.figura-terceira-noticia{
+	width: 50%;
+	margin: 0% 17% 0% 0%;
+	float:right;
+}
+
+.texto-terceira-noticia{
+	width:50%;
+	margin: 1% 17% 2% 0%;
+	line-height: 180%;
+	text-align: justify;
+	text-justify: inter-word;
+	font-family: sans-serif;
+	font-family: sans-serif;
+	float:right;
+}
+
+.titulo-quarta-noticia{
+	width: 48%;
+	height: 7%;
+	margin: 0% 17% 0% 0%;
+	text-align: center;
+	vertical-align:middle;
+	font-size: 130%;
+	font-family: "Montserrat", sans-serif;
+	color: #FFFFFF;
+	padding:2% 1% 2% 1%;
+	background-color: #488A53;
+	float:right;
+	line-height: 150%;
+}
+
+.figura-quarta-noticia{
+	width: 50%;
+	margin: 0% 17% 0% 0%;
+	float:right;
+}
+
+.texto-quarta-noticia{
+	width:50%;
+	margin: 1% 17% 2% 0%;
+	line-height: 180%;
+	text-align: justify;
+	text-justify: inter-word;
+	font-family: sans-serif;
+	font-family: sans-serif;
+	float:right;
+}
+
+.titulo-quinta-noticia{
+	width: 48%;
+	height: 7%;
+	margin: 0% 17% 0% 0%;
+	text-align: center;
+	vertical-align:middle;
+	font-size: 130%;
+	font-family: "Montserrat", sans-serif;
+	color: #FFFFFF;
+	padding:2% 1% 2% 1%;
+	background-color: #A41518;
+	float:right;
+	line-height: 150%;
+}
+
+.figura-quinta-noticia{
+	width: 50%;
+	margin: 0% 17% 0% 0%;
+	float:right;
+}
+
+.texto-quinta-noticia{
+	width:50%;
+	margin: 1% 17% 2% 0%;
+	line-height: 180%;
+	text-align: justify;
+	text-justify: inter-word;
+	font-family: sans-serif;
+	font-family: sans-serif;
+	float:right;
+}
+
+.barra-de-navegacao{
+	height:80%;
+	width: 27%;
+	float: left;
+	position: fixed;
+	margin-top: 9%;
+	margin-left: 8%;
+	overflow-y:scroll;
+	overflow-x:hidden;
+}
+
+.barra-de-navegacao ul{
+	list-style:none;
+}
+
+.barra-de-navegacao ul li{
+	width:80%;
+	height:3%;
+	margin-top: 1%;
+	text-align: center;
+	vertical-align:middle;
+	font-size: 120%;
+	font-family: "Montserrat", sans-serif;
+	padding: 5%;
+	background-color: #C0C0C0;
+}
+
+.barra-de-navegacao ul li a{
+	text-decoration:none;
+	color: black;
+}
+
+.barra-de-navegacao ul li a:hover{
+	display: block;
+	color: #FFFFFF;
+}
+
+.volta-topo{
+	float: right;
+	clear: right;
+	margin: 0% 17% 2% 0%;
+	font-family: sans-serif;
+}
+
+.volta-topo a{
+	color:blue;
+	text-decoration: underline;
+}
